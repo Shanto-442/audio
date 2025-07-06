@@ -1,0 +1,30 @@
+h1, h2{
+    text-align: center;
+    color: #e01d1d;
+
+}
+
+#header{
+    background: #9eebab;
+    padding: 20px;
+    text-align: center;
+}
+
+#my402video {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 2px;
+    border: 1px solid #030000;
+    text-align: center;
+
+}
+#hridoy-photo {
+    width: 100%;
+    height: auto;
+    display: block;
+    margin: 2px;
+    border: 1px solid #030000;
+    text-align: center;
+
+}
